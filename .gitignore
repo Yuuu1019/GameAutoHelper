@@ -1,0 +1,25 @@
+# 本地配置（隐私）
+config.json
+config_*.json
+
+# 日志（隐私）
+logs/
+*.log
+
+# 编译产物
+*.exe
+*.zip
+打包.bat
+清理.bat
+
+# 备份
+*.bak
+*.backup
+
+# 系统
+Thumbs.db
+desktop.ini
+
+# 编辑器
+.vscode/
+.idea/
